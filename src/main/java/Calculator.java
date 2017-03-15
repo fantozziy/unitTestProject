@@ -9,4 +9,8 @@ public class Calculator {
     public int getMinus(int firstX, int secondx) {
         return firstX - secondx;
     }
+
+    public int getQuotient(int firstX, int secondX) {
+        return firstX / secondX;
+    }
 }
